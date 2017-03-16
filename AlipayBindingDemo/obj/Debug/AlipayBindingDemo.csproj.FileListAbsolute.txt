@@ -1,0 +1,10 @@
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\AlipayBindingDemo\AlipayBindingDemo\bin\Debug\AlipayBindingDemo.dll
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\AlipayBindingDemo\AlipayBindingDemo\bin\Debug\AlipayBindingDemo.pdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\AlipayBindingDemo\AlipayBindingDemo\obj\Debug\AlipayBindingDemo.dll
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\AlipayBindingDemo\AlipayBindingDemo\obj\Debug\AlipayBindingDemo.pdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\AlipayBindingDemo\AlipayBindingDemo\obj\Debug\AlipayBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\AlipayBindingDemo\AlipayBindingDemo\bin\Debug\AlipayBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\AlipayBindingDemo\AlipayBindingDemo\obj\Debug\AlipayBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\AlipayBindingDemo\AlipayBindingDemo\bin\Debug\AlipayBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\AlipayBindingDemo\AlipayBindingDemo\obj\Debug\AlipayBindingDemo.dll.mdb
+C:\Users\HuShuai\Documents\Visual Studio 2017\Projects\AlipayBindingDemo\AlipayBindingDemo\bin\Debug\AlipayBindingDemo.dll.mdb
